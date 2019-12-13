@@ -1,20 +1,13 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
-
 import React, {Component} from 'react';
 import {View} from 'react-native';
-import Component4 from './components/Component4/Component4';
+import Component5 from './components/Component5/Component5';
+import Component6 from './components/Component6/Component6';
 
 export default class App extends Component {
   render() {
     return (
       <View>
-        <Component4 />
+        <Component5 />
       </View>
     );
   }
